@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App06_ShortBio</string>
+    <string name="sobre">Sobre</string>
+    <string name="formacao">Formação</string>
+    <string name="experiencia">Experiência</string>
+    <string name="objetivo">Objetivo</string>
+    <string name="nome">Nome: Victor Gabriel Leme</string>
+    <string name="idade">Idade: 20 anos</string>
+    <string name="formacao_descricao">6º Ciclo do curso de ADS na Fatec Praia Grande</string>
+    <string name="primeira_experiencia">Nenhuma</string>
+    <string name="segunda_experiencia">Não tenho nenhuma</string>
+    <string name="objetivo_descricao">Terminar o curso e começar a vender arte na praia</string>
+</resources>
