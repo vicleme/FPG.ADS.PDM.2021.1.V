@@ -6,4 +6,4 @@ Meu 1º aplicativo feito em Kotlin.
 
 ## Foto do aplicativo
 
-![App](/readme-images/app.png)
+![App](/App01_HelloWorld/readme-images/app.png)
