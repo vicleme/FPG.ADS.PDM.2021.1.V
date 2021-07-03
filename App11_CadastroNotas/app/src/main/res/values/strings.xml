@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="titulo_lista">Lista de Notas</string>
+    <string name="titulo_cadastro">Notas</string>
+    <string-array name="opcoes_spinner">
+        <item>Planejado</item>
+        <item>Iniciado</item>
+        <item>Concluído</item>
+    </string-array>
+</resources>
