@@ -1,6 +1,6 @@
-Notas
+Cadastro de Notas
 
-Aplicativo de notas.
+Aplicativo de cadastro de notas.
 ---
 
 ## Fotos do aplicativo

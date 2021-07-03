@@ -1,6 +1,6 @@
-Notas
+Fragments
 
-Aplicativo de notas.
+Aplicativo de exemplo para o conceito de Fragments.
 ---
 
 ## Foto do aplicativo

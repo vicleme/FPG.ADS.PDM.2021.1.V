@@ -1,6 +1,6 @@
-Notas
+Cadastro de Programadores
 
-Aplicativo de notas.
+Aplicativo de cadastro para programadores.
 ---
 
 ## Fotos do aplicativo

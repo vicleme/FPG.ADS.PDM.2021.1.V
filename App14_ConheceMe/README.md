@@ -1,6 +1,6 @@
-Notas
+ConheceMe
 
-Aplicativo de notas.
+Aplicativo de apresentação feito com Fragments.
 ---
 
 ## Foto do aplicativo

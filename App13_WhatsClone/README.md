@@ -1,6 +1,6 @@
-Notas
+WhatsClone
 
-Aplicativo de notas.
+Aplicativo simulando o WhatsApp feito com Fragments.
 ---
 
 ## Foto do aplicativo
