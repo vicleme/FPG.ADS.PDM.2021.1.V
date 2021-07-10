@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App19ConsultaCEP</string>
+    <string name="edtHintCEP">Digite seu cep...</string>
+</resources>
