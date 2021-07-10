@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App20ConsultaGitHub</string>
+    <string name="edtHintGithub">Digite seu usuário...</string>
+</resources>
