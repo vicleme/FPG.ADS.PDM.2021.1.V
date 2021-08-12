@@ -1,2 +1,2 @@
 # FPG.ADS.PDM.2021.1.V
-Aplicativos feitos em aula na disciplina de PDM do curso de ADS da Fatec PG.
+Conjunto de pequenos aplicativos feitos em aula na disciplina de Programação para Dispositivos Móveis do curso de ADS da Fatec PG.
